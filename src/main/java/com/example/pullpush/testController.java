@@ -14,9 +14,10 @@ public class testController {
 		return "jsptest222";
 	}
 	
-	@PostMapping("/test277777")
+	@PostMapping("/test27333")
 	public String test2() {
-		return "redirect:/pull77.html";
+		return "redirect:/pull2733.html";
+		
 	}
 	
 	//asdfijpsadjfpasj
