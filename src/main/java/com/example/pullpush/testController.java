@@ -16,7 +16,7 @@ public class testController {
 	
 	@PostMapping("/test27333")
 	public String test2() {
-		return "redirect:/pull.html";
+		return "redirect:/pull2733.html";
 		
 	}
 
