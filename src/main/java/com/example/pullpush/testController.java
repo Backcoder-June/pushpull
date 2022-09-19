@@ -18,5 +18,7 @@ public class testController {
 	public String test2() {
 		return "redirect:/pull77.html";
 	}
+	
+	//asdfijpsadjfpasj
 
 }
